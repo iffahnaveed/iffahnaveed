@@ -41,18 +41,6 @@ I'm a passionate AI/ML engineer with diverse interests spanning Artificial Intel
 | Built AI-powered applications using Machine Learning, Deep Learning, and Computer Vision for real-world automation. | Developed intelligent surveillance solutions including weapon detection, shoplifting detection, customer analytics, and parking theft monitoring using YOLO and LSTM. | Designed secure communication systems using AES-128, RSA Digital Signatures, Diffie-Hellman, PKI, and X.509 Certificates. | Developed scalable web applications with React, FastAPI, Node.js, Express.js, Docker, Kubernetes, and CI/CD pipelines. |
 ---
 
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iffahnaveed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iffahnaveed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iffahnaveed&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🐍 CONTRIBUTION SNAKE
 
