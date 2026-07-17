@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm iffah naveed
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=AI/ML Engineer • Computer Vision Developer;Building Intelligent AI-Powered Applications;Computer Science Graduate | Full-Stack Developer)](https://git.io/typing-svg)
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=AI%2FML+Engineer+%E2%80%A2+Computer+Vision+Developer;Building+Intelligent+AI-Powered+Applications;Computer+Science+Graduate+%7C+Full-Stack+Developer)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 
@@ -45,19 +44,19 @@ I'm a passionate AI/ML engineer with diverse interests spanning Artificial Intel
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iffahnaveed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iffahnaveed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iffahnaveed&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
 
-![github contribution grid snake animation](https://github.com/[YOUR_USERNAME]/[YOUR_USERNAME]/raw/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://github.com/iffahnaveed/iffahnaveed/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 ## 🛠 TECH STACK
